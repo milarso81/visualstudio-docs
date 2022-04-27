@@ -53,6 +53,8 @@ if "%ERRORLEVEL%"=="3010" (
         exit /b !ERR!
     )
 )
+
+exit 0
 ```
 
 ## Dockerfile
